@@ -21,7 +21,8 @@ This script essentially automates the proccess required to make an apk usable on
 
 Note that this doesn't include the "manual adjustments" as mentioned in the original XDA thread,
 the original thread didn't specify what adjustments should've been made and probably varied with different apps,
-tested on Spotify Lite and it should work fine without them.
+tested on Spotify Lite and it should work fine without them.\
+This behaviour isn't guaranteed and automatic scaling may not be sufficient for some apps.
 
 ## Credits
 [Original WearModder](https://github.com/moneytoo/WearModder) made by [moneytoo](https://github.com/moneytoo), also on [XDA](https://xdaforums.com/t/app-mod-spotify-lite-scaled-for-standalone-use-on-wear-os.3815680/)\
